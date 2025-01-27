@@ -58,7 +58,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
                 "He wrote on 9 May 1863 that MacDonald's family had suggested he publish Alice." +
                 " A diary entry for 2 July says that he received a specimen page of the print edition around that date. " +
                 "On 26 November 1864, Carroll gave Alice the manuscript of Alice's Adventures Under Ground, with illustrations " +
-                "by Carroll, dedicating it as \"A Christmas Gift to a Dear Child in Memory of a Summer's Day\"." +
+                "by Carroll, dedicating it as a Christmas Gift to a Dear Child in Memory of a Summer's Day." +
                 " The published version of Alice's Adventures in Wonderland is about twice the length of " +
                 "Alice's Adventures Under Ground and includes episodes, such as the Mad Tea-Party, " +
                 "that did not appear in the manuscript. The only known manuscript copy of Under Ground " +

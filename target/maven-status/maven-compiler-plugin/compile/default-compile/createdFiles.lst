@@ -1,0 +1,6 @@
+org\example\entity\StringSet.class
+org\example\entity\Priority.class
+org\example\entity\Task.class
+org\example\entity\TaskData.class
+org\example\Main.class
+org\example\entity\Status.class
